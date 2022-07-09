@@ -6,3 +6,8 @@ git branch -M main
 git remote add origin https://github.com/prp168/test_repository.git
 
 git push -u origin main
+
+## All files
+git add .
+git commit -m 'all files'
+git push
